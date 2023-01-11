@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.11)
 
-set(git_version 139)
+set(git_version 145)
 project(Diagon
   LANGUAGES C CXX
   VERSION 1.0.${git_version}
